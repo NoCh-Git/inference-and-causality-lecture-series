@@ -2,7 +2,7 @@
 ---
 This repository serves as the main entry point for all weekly materials of the course **Inference and Causality**.  
 Each week has its own dedicated repository containing slides, notebooks, and requirements.
-This course was originally designed for master's students in data science, big data and AI.
+This course is designed for master's students in data science, big data and AI.
 
 ## Weekly Modules
 
